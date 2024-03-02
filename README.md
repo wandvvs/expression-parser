@@ -7,7 +7,7 @@ The parser implemented with C++23 uses recursive descent parsing to parse the in
 
 ## Stages of Interpretation
 1. Lexical analysis (tokenization)
-2. Building an AST Tree using recursive descent parsing
+2. Syntax analysis (Building an AST Tree using recursive descent parsing)
 3. Executing an expression
 
 ## Grammar
