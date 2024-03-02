@@ -1,0 +1,3 @@
+C:/Users/wand/CLionProjects/expression-solver/cmake-build-debug/CMakeFiles/expression_solver.dir
+C:/Users/wand/CLionProjects/expression-solver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wand/CLionProjects/expression-solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
