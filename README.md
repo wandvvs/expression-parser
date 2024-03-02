@@ -2,8 +2,8 @@
 The parser implemented with C++23 uses recursive descent parsing to parse the input string and construct an Abstract Syntax Tree (AST) representing the input arithmetic expression.
 
 ## Features
-[x] Parsing arithmetic expressions containing numbers, addition, subtraction, multiplication, division, and parentheses.
-[x] Constructing an Abstract Syntax Tree (AST) representing the parsed arithmetic expressions.
+- [x] Parsing arithmetic expressions containing numbers, addition, subtraction, multiplication, division, and parentheses.
+- [x] Constructing an Abstract Syntax Tree (AST) representing the parsed arithmetic expressions.
 
 ## Stages of Interpretation
 1. Lexical analysis (tokenization)
